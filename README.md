@@ -1,64 +1,89 @@
 # Leaderboard 
-<a name="readme-top"></a>
-
-<div align="center">
-  <h3><b>Leaderboard </b></h3>
-
-</div>
-
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
+    - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
-  - [Clone](#clone)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
+# 📖 Leaderboard
+ <a name="about-project"></a>
 
-# 📖  Leaderboard list structure  <a name="about-project"></a>
 
+# Leaderboard
+
+
+Leaderboard-final-touch
 >This project is about building a Leaderboard list application in JavaScript. Webpack and ES6 features are used. For this version of the project, only the functionality of the app by following a wireframe is followed.Final touch on the style of the app is performed in this activity.
 
+**Live Demo**
+ development
+
 ## 🛠 Built With <a name="built-with"></a>
-> HTML
- Javascript 
- CSS
+- JavaScript
+- HTML
+- CSS
+- Webpack
+- Visual Studio Code
+- Git & Github
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<!-- GETTING STARTED -->
-
 ## 💻 Getting Started <a name="getting-started"></a>
+To get a local copy up and running follow these simple example steps.
+- Open terminal
+- Clone this project by the command `git clone  https://github.com/hiwina/Leaderboard/tree/hit-the-API`
+- `cd <clone>` folder
+- Run `npm start` in your local browser or using Live Server in Visual Studio Code.
 
-> To get a local copy up and running, follow these steps.
+### Prerequisites
 
-### Clone
+- IDE to edit and run the code (We use Visual Studio Code 🔥).
+- [Node.js](https://nodejs.org/en/download/) already downloaded.
+- Webpack - [click here to getting started](https://webpack.js.org/guides/getting-started/).
+
+
+### Setup
 
 Clone this repository to your desired folder:
+  cd my-folder
+  git clone https://github.com/hiwina/Leaderboard/tree/hit-the-API
 
-  git clone https://github.com/hiwina/Leaderboard/tree/leaderboard-structure
 
+### Run tests
 
-<!-- AUTHORS -->
+To run tests, run the following command:
+  - npx hint .
+  - npx eslint .
+
+  ### Key Features
+- Leaderboard page structure
+- Sending and fetching data from the Leaderboard API services
+ 
+  
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
 
-> 
+👤 **Hiwot Bayissa**
 
-👤 Hiwot Bayissa
+ - [Github](https://github.com/hiwina)
 
- GitHub: [@github/hiwina](https://github.com/hiwina)
-> 
-
-
-<!-- CONTRIBUTING -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -66,18 +91,21 @@ Contributions, issues, and feature requests are welcome!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
-
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project please give a star...
+If you like this project you can give it a ⭐️.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+- Microverse program ⚡
+- My standup team 🏹
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+This project is [MIT](./LICENSE) licensed.
