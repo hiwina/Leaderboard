@@ -23,7 +23,7 @@
 
 # 📖  Leaderboard list structure  <a name="about-project"></a>
 
->This project is about building a Leaderboard list application in JavaScript. Webpack and ES6 features are used. For this version of the project, only the functionality of the app by following a wireframe is followed.
+>This project is about building a Leaderboard list application in JavaScript. Webpack and ES6 features are used. For this version of the project, only the functionality of the app by following a wireframe is followed.Final touch on the style of the app is performed in this activity.
 
 ## 🛠 Built With <a name="built-with"></a>
 > HTML
