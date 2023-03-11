@@ -24,10 +24,13 @@
 
 
 # Leaderboard
-This project is about building a Leaderboard list application in JavaScript which allows users to submit game score. All the data is stored in external Leaderboard API service. Webpack and ES6 features are used. For this version of the project, only the functionality of the app by following a wireframe is followed and data is sent and received from the API.
 
+
+Leaderboard-final-touch
+>This project is about building a Leaderboard list application in JavaScript. Webpack and ES6 features are used. For this version of the project, only the functionality of the app by following a wireframe is followed.Final touch on the style of the app is performed in this activity.
 
 **Live Demo**
+ development
 
 ## 🛠 Built With <a name="built-with"></a>
 - JavaScript
